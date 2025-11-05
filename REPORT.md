@@ -70,8 +70,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: G**
-📌 **Motivering:** Flera krav är delvis uppfyllda, men saknas tydlig dokumentation eller insyn i alla delar av koden för att verifiera full implementering. Kräver ytterligare verifiering.
+## 🏆 **Betyg: VG**
+📌 **Motivering:** Koden uppfyller alla uppgiftens krav för både betyg G och VG, är välstrukturerad och användarvänlig. Återanvändning av komponenter och effektiv hantering av tillstånd med context och reducers visar förståelse för avancerade koncept.
 
 💡 **Förbättringsförslag:**  
-Förbättrad dokumentation och verifiering av samtliga krav såsom API-anrop, Context API, och använding av reducers skulle hjälpa.
+Exempelvis kan felhantering vid fetch-anropen göras mer robust genom att visa mer detaljerade felmeddelanden till användaren eller logga dessa för utvecklingsändamål.
