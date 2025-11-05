@@ -70,8 +70,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: VG**
-📌 **Motivering:** Koden uppfyller alla uppställda krav för både G och VG-betyg, samt en välstrukturerad användning av React- och React Router. Användningen av context och reducer är korrekt och effektiv för att hantera delstegen i applikationen, och det finns en väl integrerad användning av SCSS för styling.
+## 🏆 **Betyg: G**
+📌 **Motivering:** Flera krav är delvis uppfyllda, men saknas tydlig dokumentation eller insyn i alla delar av koden för att verifiera full implementering. Kräver ytterligare verifiering.
 
 💡 **Förbättringsförslag:**  
-Koden kan förbättras genom att centralisera fetch-anropet i en separat service eller hook för att underlätta testning och återanvändning. Vidare kan felhanteringen förbättras med mer detaljerade felmeddelanden när exempelvis djurdata inte laddas korrekt. En subtil fördröjningseffekt kan även läggas till i animeringar för mer förfinad användarupplevelse vid interaktioner.
+Förbättrad dokumentation och verifiering av samtliga krav såsom API-anrop, Context API, och använding av reducers skulle hjälpa.
