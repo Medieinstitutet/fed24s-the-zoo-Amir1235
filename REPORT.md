@@ -71,7 +71,7 @@ Ha roligt, skratta och lär er massor!
 
 
 ## 🏆 **Betyg: VG**
-📌 **Motivering:** Koden uppfyller alla uppgiftens krav för både betyg G och VG, är välstrukturerad och användarvänlig. Återanvändning av komponenter och effektiv hantering av tillstånd med context och reducers visar förståelse för avancerade koncept.
+📌 **Motivering:** Koden uppfyller alla krav för både G och VG med undantag för subtila animeringar som inte är tydligt specificerade. Det är en välstrukturerad, genomtänkt applicering av frontend-principer.
 
 💡 **Förbättringsförslag:**  
-Exempelvis kan felhantering vid fetch-anropen göras mer robust genom att visa mer detaljerade felmeddelanden till användaren eller logga dessa för utvecklingsändamål.
+Överväg att inkorporera subtila animeringar som kan förbättra användarupplevelsen, till exempel genom CSS transitions på knappar eller kortanimeringar. Säkerställ också att custom hooks används för datahämtning för en komplett VG-implementering.
