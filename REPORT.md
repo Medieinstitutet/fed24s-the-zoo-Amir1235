@@ -70,8 +70,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: VG**
-📌 **Motivering:** Koden uppfyller alla krav för både G och VG med undantag för subtila animeringar som inte är tydligt specificerade. Det är en välstrukturerad, genomtänkt applicering av frontend-principer.
+## 🏆 **Betyg: G**
+📌 **Motivering:** Koden uppfyller samtliga krav för betyget G, med korrekt användning av routing, context och reducers. Dock saknas användning av tjänster eller custom hooks för datahämtning, och det finns otydlighet kring animeringar.
 
 💡 **Förbättringsförslag:**  
-Överväg att inkorporera subtila animeringar som kan förbättra användarupplevelsen, till exempel genom CSS transitions på knappar eller kortanimeringar. Säkerställ också att custom hooks används för datahämtning för en komplett VG-implementering.
+Implementera datahämtning genom en custom hook eller tjänst. Förtydliga animeringar vid interaktioner för att uppnå VG-kriterierna. Säkerställ att matstatus kan återställas på korrekt sätt.
