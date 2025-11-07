@@ -70,8 +70,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: G**
-📌 **Motivering:** Koden uppfyller samtliga krav för betyget G, med korrekt användning av routing, context och reducers. Dock saknas användning av tjänster eller custom hooks för datahämtning, och det finns otydlighet kring animeringar.
+## 🏆 **Betyg: VG**
+📌 **Motivering:** Koden uppfyller både G- och VG-kraven. Användning av routerlösning för att visa olika sidor inkluderas med korrekt användning av layouts, child-routes och error-element. Djurens status indikeras korrekt och matningsfunktionaliteten är implementerad med rätt villkor enligt uppgiftskraven. Kontext används istället för props, och reducers istället för state för styrning av djurens data. Det finns stöd för trasiga bildlänkar och styling sker med SCSS och subtila animeringar vid knapp-interaktioner.
 
 💡 **Förbättringsförslag:**  
-Implementera datahämtning genom en custom hook eller tjänst. Förtydliga animeringar vid interaktioner för att uppnå VG-kriterierna. Säkerställ att matstatus kan återställas på korrekt sätt.
+Inga större förbättringar behövs, men koden kan optimeras ytterligare med feedback från användartester för att se varför och hur användare interagerar med sidan.
