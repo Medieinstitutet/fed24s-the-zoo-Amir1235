@@ -68,8 +68,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: VG**
-📌 **Motivering:** Projektet uppfyller alla krav för betyg G och VG. Koden är välstrukturerad och visar en avancerad förståelse för frontend-utveckling genom effektiv användning av context och reducers. Funktionaliteten är korrekt implementerad och best practices för ramverket följs. Användningen av subtila animeringar och en användarvänlig design bidrar till en högkvalitativ användarupplevelse.
+## 🏆 **Betyg: G**
+📌 **Motivering:** Koden uppfyller de grundläggande kraven för betyget G, inklusive användning av en router, en fungerande översiktssida för djuren, korrekt hantering av trasiga bildlänkar och möjligheten att mata djur. Projektet är välstrukturerat och följer etablerade konventioner, men det finns utrymme för förbättringar för att nå VG-nivå. Användargränssnittet och felhanteringen kan förbättras, och det saknas implementation av context och reducers för state management.
 
 💡 **Förbättringsförslag:**  
-Förbättra kodens läsbarhet genom att lägga till fler kommentarer, särskilt i komplexa delar av logiken. Minska upprepning genom att extrahera gemensam logik till hjälpfunktioner eller hooks. Förbättra error handling för att ge mer informativa felmeddelanden till användaren.
+För att uppnå VG-nivå bör studenten implementera mer avancerade CSS-tekniker och subtila animeringar, använda context och reducers för state management, samt optimera prestandan genom lazy loading av bilder. Det är också viktigt att förbättra felhanteringen och inkludera fler kommentarer för att förklara komplexa delar av koden.
