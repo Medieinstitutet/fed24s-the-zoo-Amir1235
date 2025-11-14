@@ -68,8 +68,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: G**
-📌 **Motivering:** Koden uppfyller alla grundläggande krav för betyget G. Den använder en router för att visa olika sidor, hanterar trasiga bildlänkar korrekt och använder en annan teknik än ren CSS för styling. Funktionaliteten för att mata djur och spara tiden är implementerad. För att nå VG saknas implementering av context och reducers samt subtila animeringar.
+## 🏆 **Betyg: VG**
+📌 **Motivering:** Projektet uppfyller alla krav för betyg G och VG. Koden är välstrukturerad och visar en avancerad förståelse för frontend-utveckling genom effektiv användning av context och reducers. Funktionaliteten är korrekt implementerad och best practices för ramverket följs. Användningen av subtila animeringar och en användarvänlig design bidrar till en högkvalitativ användarupplevelse.
 
 💡 **Förbättringsförslag:**  
-För att förbättra och nå betyget VG bör projektet använda context istället för props för kommunikation mellan komponenter och reducers istället för state för hantering av djur. Implementera subtila animeringar vid knapptryckningar och sidladdningar. Använd en custom hook eller tjänster för att hämta data. Förbättra kodens läsbarhet genom att lägga till fler kommentarer och säkerställa att naming conventions följs konsekvent.
+Förbättra kodens läsbarhet genom att lägga till fler kommentarer, särskilt i komplexa delar av logiken. Minska upprepning genom att extrahera gemensam logik till hjälpfunktioner eller hooks. Förbättra error handling för att ge mer informativa felmeddelanden till användaren.
