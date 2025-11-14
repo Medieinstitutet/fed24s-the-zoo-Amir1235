@@ -1,7 +1,6 @@
 # 📌 Rättningsrapport – fed24s-the-zoo-Amir1235
 
 ## 🎯 Uppgiftens Krav:
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xBUCHFwF)
 # The Zoo
 
 I denna inlämningsuppgift kommer ni att bygga ett zoo. Zoo:t har ett antal djur som kommer behöva matas. 
@@ -66,12 +65,11 @@ Välj en teknik gällande css som ni antingen vill lära er mer om eller som ni 
 
 Ha roligt, skratta och lär er massor!
 
-
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: VG**
-📌 **Motivering:** Koden uppfyller både G- och VG-kraven. Användning av routerlösning för att visa olika sidor inkluderas med korrekt användning av layouts, child-routes och error-element. Djurens status indikeras korrekt och matningsfunktionaliteten är implementerad med rätt villkor enligt uppgiftskraven. Kontext används istället för props, och reducers istället för state för styrning av djurens data. Det finns stöd för trasiga bildlänkar och styling sker med SCSS och subtila animeringar vid knapp-interaktioner.
+## 🏆 **Betyg: G**
+📌 **Motivering:** Koden uppfyller alla grundläggande krav för betyget G. Den använder en router för att visa olika sidor, hanterar trasiga bildlänkar korrekt och använder en annan teknik än ren CSS för styling. Funktionaliteten för att mata djur och spara tiden är implementerad. För att nå VG saknas implementering av context och reducers samt subtila animeringar.
 
 💡 **Förbättringsförslag:**  
-Inga större förbättringar behövs, men koden kan optimeras ytterligare med feedback från användartester för att se varför och hur användare interagerar med sidan.
+För att förbättra och nå betyget VG bör projektet använda context istället för props för kommunikation mellan komponenter och reducers istället för state för hantering av djur. Implementera subtila animeringar vid knapptryckningar och sidladdningar. Använd en custom hook eller tjänster för att hämta data. Förbättra kodens läsbarhet genom att lägga till fler kommentarer och säkerställa att naming conventions följs konsekvent.
