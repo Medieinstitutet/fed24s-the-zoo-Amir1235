@@ -68,8 +68,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: G**
-📌 **Motivering:** Projektet uppfyller alla grundläggande krav för betyg G. Koden är välstrukturerad och funktionaliteten som beskrivs i uppgiften är implementerad på ett korrekt sätt. Dock saknas vissa avancerade funktioner och tekniker som krävs för betyg VG, såsom användning av context API och reducers.
+## 🏆 **Betyg: VG**
+📌 **Motivering:** Projektet uppfyller alla krav för både G och VG. Koden är välstrukturerad och använder React Router effektivt för att hantera olika sidor och layouts. Context API och useReducer används för state-hantering, vilket är i linje med VG-kraven. Bildfel hanteras korrekt, och SCSS används för styling, vilket uppfyller kravet att använda en annan teknik än ren CSS. Användargränssnittet hanterar matningslogiken enligt de specificerade reglerna, och det finns en bra hantering av fel och statusindikatorer för djuren på översiktssidan. Även om subtila animeringar och en custom hook för datainhämtning föreslås som förbättringar, påverkar dessa inte betyget eftersom de inte är uttryckliga krav.
 
 💡 **Förbättringsförslag:**  
-För att uppnå betyg VG, bör studenten implementera context API för att hantera global state och använda reducers för djurhantering. Dessutom kan subtila animeringar läggas till för att förbättra användarupplevelsen. Förbättrad error handling för att hantera fler potentiella fel, såsom nätverksfel eller felaktiga API-svar, skulle också vara fördelaktigt.
+För att ytterligare förbättra koden kan kommentarer läggas till för att öka läsbarheten och underlätta underhåll. Implementering av subtila animeringar vid knapptryckningar och sidladdningar kan förbättra användarupplevelsen. Att använda en custom hook för datainhämtning kan också förbättra koden genom att separera logik från komponenterna, vilket gör koden mer modulär och lättare att underhålla.
